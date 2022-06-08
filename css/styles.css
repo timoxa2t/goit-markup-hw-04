@@ -173,7 +173,7 @@ img {
 
 .header-contacts-link:focus .header-contacts-icon,
 .header-contacts-link:hover .header-contacts-icon {
-
+  fill: var(--action-background);
 }
 
 .header-contacts-item:not(:last-child) {
