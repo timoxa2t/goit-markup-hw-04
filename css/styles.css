@@ -169,6 +169,10 @@ img {
 .nav-bar-link:focus,
 .nav-bar-link:hover {
   color: var(--action-background);
+}
+
+.header-contacts-link:focus .header-contacts-icon,
+.header-contacts-link:hover .header-contacts-icon{
   fill: var(--action-background);
 }
 
